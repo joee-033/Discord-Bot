@@ -1,2 +1,5 @@
-# Discord-Bot
-A simple Discord bot, created by joee#2794. Do not bother contacting me for concerns, because quite frankly, do not care.
+# Joee's Discord Bot.
+v0.1a, created entirely by joee#2794.
+
+---
+Easily edit bot configs, using the `config.json` file.
